@@ -1,0 +1,221 @@
+body{
+    width: 1920px;
+    height: 1150px;
+    background-color: #000000;
+
+    border: 2px solid white;
+    color: white;
+}
+
+header{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+footer {
+    display: flex;
+    justify-content: flex-end; 
+}
+
+.pinkBox {
+    width: 781px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: #FD1EBD;
+    margin-top: 71px;
+    margin-bottom: 48px;
+}
+
+.yellowBox {
+    width: 643px;
+    height: 55px;
+    flex-shrink: 0;
+    background-color: #FFFD38;
+}
+
+#containerOne {
+    width: 725px;
+    height: 746px;
+    margin-left: 61px;
+    border-left: 2px solid white;
+    padding-left: 71px;
+}
+
+#containerOne h1 {
+
+    color: rgba(225, 225, 225, 0.3);
+    font-size: 50.4px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    font-family: "Inter", sans-serif;
+    
+}
+
+
+#containerOne span {
+    
+    color: #fff;
+    font-size: 289.846px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+
+    font-family: "Inter", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
+        
+}
+
+#ui {
+    position: relative;
+    bottom: 60px;
+}
+
+#practice {
+
+    color: #fff;
+    font-size: 163.445px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    font-family: "Inter", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
+
+    position: relative;
+    bottom: 120px;
+}
+
+#designLove {
+
+    color: #fff;
+    font-size: 43.493px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+
+    font-family: "Inter", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
+
+}
+
+#containerTwoDesignLove {
+    display: flex;
+    position: relative;
+    bottom:110px;
+}
+
+#containerTwoDesignLove img {
+    width: 55px;
+    height: 55px;
+    margin-left: 17px; 
+}
+
+#autor {
+    color: #fffd38;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    text-decoration: underline;
+    
+    font-family: "Inter", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+#containerAvatar img {
+    width: 60px;
+    height: 60px;
+}
+#containerAvatar {
+    display: flex;
+    position: relative;
+    bottom:110px;
+    margin-top: 45px; 
+}
+
+#number4 {
+    color: #fff;
+    font-family: 'Seville', sans-serif;
+    font-size: 225.638px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    position: relative;
+    top: 70px;
+}
+
+#containerNumber4 {
+    width: 240px;
+    height: 426px;
+    display: flex;
+    position: relative;
+    right: 60px;
+    top: 120px;
+}
+
+#mainContainerBox {
+    display: flex;
+
+}
+
+#yellowSmallBar {
+    width: 121.75px;
+    height: 33.84px;
+    background-color: #fffd38;
+    position: relative;
+    bottom: 310px;
+    z-index: -1;
+
+}
+
+#starr {
+    position: relative;
+    bottom: 285px;
+    margin-right: 81px;
+}
+
+
+#newbiesFont {
+
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: normal;
+    text-decoration: underline;
+    
+    font-family: "Inter", sans-serif;
+    font-family: "Space Grotesk", sans-serif;
+}
+
+#designers {
+    color: #fff;
+    font-family: 'Seville', sans-serif;
+    font-size: 163px;
+    font-style: normal;
+    font-weight: 50px;
+    line-height: normal; 
+
+
+
+}
+
+#newbiesDesigners {
+    width: 434px;
+    position: relative;
+    left: 850px;
+    bottom: 450px;
+
+}
+
+#newbiesOne {
+    width: 280px;
+    height: 31px;
+    position: relative;
+    left: 82px;
+    top: 70px;
+    
+}
+
